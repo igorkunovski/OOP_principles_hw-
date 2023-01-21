@@ -24,7 +24,14 @@
 - Класс для запуска *Main_hw2.java*
 
 рисунок 1
+
 ![Menu](https://user-images.githubusercontent.com/36072345/213877802-c3389b8a-6ce5-416a-96bb-860434d8d9e9.JPG)
 
 рисунок 2
+
 ![AdditionMenu](https://user-images.githubusercontent.com/36072345/213877825-6bc889b7-65c9-4d40-b804-903578c2dd5e.JPG)
+
+Работа программы
+
+![newAnimal](https://user-images.githubusercontent.com/36072345/213877907-df34f606-d390-42b7-b1d4-4cd28b71a525.JPG)
+
