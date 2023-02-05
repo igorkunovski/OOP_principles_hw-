@@ -1,4 +1,4 @@
-package exception;
+package exceptionOld;
 
 public class NegativeRadiusException extends FigureCreationException{
     private static final String message = "Negative radius";

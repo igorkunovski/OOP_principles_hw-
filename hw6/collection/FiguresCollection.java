@@ -2,13 +2,13 @@ package collection;
 
 import comparator.*;
 import figure.*;
-import static calculation.Calculation.*;
+import static config.Calculation.*;
 import java.util.ArrayList;
 import java.util.List;
 
 public class FiguresCollection {
 
-    private List<Figure> figures;
+    private final List<Figure> figures;
     int index;
 
     public FiguresCollection() {

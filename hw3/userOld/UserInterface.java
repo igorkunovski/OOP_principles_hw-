@@ -1,8 +1,8 @@
-package user;
+package userOld;
 
-import collection.FiguresCollection;
-import exception.FigureCreationException;
-import figure.*;
+import collectionOld.FiguresCollection;
+import exceptionOld.FigureCreationException;
+import figureOld.*;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;

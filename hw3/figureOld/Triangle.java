@@ -1,6 +1,6 @@
-package figure;
+package figureOld;
 
-import exception.TriangleException;
+import exceptionOld.TriangleException;
 
 import java.util.Arrays;
 
